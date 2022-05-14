@@ -287,6 +287,9 @@ a {
     height: 55%;
     top: 257px;
   }
+  .summer br {
+    display: block;
+  }
 }
 @media (max-width: 450px) {
   .summer:before {
