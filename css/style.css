@@ -241,7 +241,7 @@ a {
 
 /*Summer*/
 .summer {
-  margin-bottom: 150px;
+  overflow: hidden;
 }
 .summer:before {
   content: "";
