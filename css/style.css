@@ -243,6 +243,9 @@ a {
 .summer {
   overflow: hidden;
 }
+.summer br {
+  display: none;  
+}
 .summer:before {
   content: "";
   position: absolute;
